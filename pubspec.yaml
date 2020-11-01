@@ -1,6 +1,5 @@
 name: esc_pos_bluetooth_forked
 description: The library allows to print receipts using an ESC/POS thermal Bluetooth printer. Forked by ToanNM
-version: 1.0.7
 homepage: https://github.com/toannmdev/esc_pos_bluetooth
 
 environment:
@@ -9,7 +8,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  rxdart: ^0.23.1
+  rxdart: ^0.24.1
   esc_pos_utils: ^0.4.9
   # esc_pos_utils:
     # path: ../esc_pos_utils
